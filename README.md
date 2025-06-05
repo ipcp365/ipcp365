@@ -1,3 +1,14 @@
+<!-- -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ipcp365/ipcp365/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ipcp365/ipcp365/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ipcp365/ipcp365/output/pacman-contribution-graph.svg">
+</picture>
+
+
+
+<!-- Header -->
+<br><br>
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Frontend%20Developer&fontAlign=40&fontSize=30&textBg=true&desc=Mobile%20·%20Web%20·%20AI&descAlign=70&descAlignY=50)
 
 
