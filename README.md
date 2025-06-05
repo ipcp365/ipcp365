@@ -1,4 +1,6 @@
-<!-- -->
+<!-- My Pac-Man -->
+<p align="center"><b>🌱  I'm currently learning ... </b></p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ipcp365/ipcp365/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ipcp365/ipcp365/output/pacman-contribution-graph.svg">
@@ -9,6 +11,9 @@
 
 <!-- Header -->
 <br><br>
+
+<p align="center"><b>✨ Frontend & Mobile Developer </b></p>
+
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Frontend%20Developer&fontAlign=40&fontSize=30&textBg=true&desc=Mobile%20·%20Web%20·%20AI&descAlign=70&descAlignY=50)
 
 
