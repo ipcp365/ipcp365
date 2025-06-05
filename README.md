@@ -1,4 +1,5 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Frontend%20Developer&fontAlign=40&fontSize=30&textBg=true&desc=Mobile%20·%20Web%20·%20AI&descAlign=70&descAlignY=50)
+
 
 <!--
 **ipcp365/ipcp365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Kotlin-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 -->
