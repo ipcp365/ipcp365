@@ -23,7 +23,8 @@ jobs:
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: push pacman-contribution-graph.svg to the output branch
+      # - name: push pacman-contribution-graph.svg to the output branch
+      - name: https://github.com/ipcp365/ipcp365/blob/output/pacman-contribution-graph.svg
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
